@@ -14,10 +14,10 @@
 
 
 ## Skills
-- 👨‍💻 Python, C++, C, Embedded C
-- ⚙️ ROS, Robot Navigation, Path Planning, URDF Models, SLAM
-- 👁 Gazebo, Rviz, RQT Tools
 - 💽 Linux
+- 👨‍💻 C, Python, SWI Prolog, C++, Embedded C
+- ⚙️ ROS, Robot Navigation, Path Planning, URDF Models, SLAM
+- 👁 Docker,Gazebo, Rviz, RQT Tools, Proteus, Mplab xc8, 
 
 ## Contact
 - rahulelex8@gmail.com
