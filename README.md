@@ -20,7 +20,7 @@
 - 👁 Docker,Gazebo, Rviz, RQT Tools, Proteus, Mplab xc8, 
 
 ## Contact
-- rahulelex8@gmail.com
+- captainugtroy@gmail.com
 - https://www.linkedin.com/in/rahul-gupta-8457501a0
 
 <!-- Footer -->
